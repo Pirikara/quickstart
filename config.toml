@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'ja'
+title = 'My New Hugo Site'
+contentDir = "post"
+disableKinds = ["RSS", "sitemap"]
+publishDir = "docs"
+theme = "ananke"
+[taxonomies]
+tag = "tags"
